@@ -1,0 +1,20 @@
+.visible {
+  display: visible;
+}
+
+.hide {
+  display: none !important;
+}
+.top-search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  position: relative;
+  width: 50%;
+}
+.search-icon1 {
+  font-size: 25px;
+}
